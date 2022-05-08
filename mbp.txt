@@ -7,3 +7,6 @@ and now edited on m1 and pushed back
 and no on the map and appliance pushed back
 ---------------
 all from shell, and pushing from M1
+
+------------------
+Shell only on mbp
