@@ -10,3 +10,6 @@ all from shell, and pushing from M1
 
 ------------------
 Shell only on mbp
+o
+
+More added here on 5/19
